@@ -1,5 +1,5 @@
 {
-  "name": "bitcore",
+  "name": "bitcore-dash",
   "version": "0.12.4",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
@@ -85,7 +85,8 @@
     "hash.js": "=1.0.2",
     "inherits": "=2.0.1",
     "lodash": "=2.4.1",
-    "sha512": "=0.0.1"
+    "sha512": "=0.0.1",
+    "x11-hash": "=0.0.2"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
